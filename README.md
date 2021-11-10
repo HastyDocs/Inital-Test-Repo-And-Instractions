@@ -5,7 +5,7 @@ This is a standard repo added then an account for a new user is created. You can
 
 Here are a couple of short instructions on how this application works.
 
-1. You can link any text (code is also text) in the app with any other text in any repo you choose from any repo in the app.
+1. You can link any text (code is also text) in the app with any other text in any repo you choose in the app.
 2. In order to create a link you tag part of the text on the one side of the screen and then tag part of the text on the other side of the screen - then a pop-up will come up with the LINK button. You can link from left to right or the other way round.
 3. You can create multiple links to the same part of text.
 4. When someone changes your source file on repository code or docs that had a link on them, you will get notification on your email about that. When you click on the link and login to the app you will see in the right top corner a notification icon with a list of all notifications.
