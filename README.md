@@ -1,7 +1,7 @@
 # Inital-Test-Repo
 Hello Dear User,
 
-This is a standard repo added then an account for a new user is created. You can delete this repo at any time in the menu in the top right corner. In this corner you can also add your public and private repos.
+This is a standard repo added when an account for a new user is created. You can delete this repo at any time in the menu in the top right corner. In this corner you can also add your public and private repos.
 
 Here are a couple of short instructions on how this application works.
 
